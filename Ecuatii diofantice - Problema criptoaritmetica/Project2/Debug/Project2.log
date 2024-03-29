@@ -1,0 +1,30 @@
+﻿  Source.cpp
+c:\users\mihaela\desktop\project2\project2\initializarepop.h(10): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihaela\desktop\project2\project2\initializarepop.h(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihaela\desktop\project2\project2\initializarepop.h(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihaela\desktop\project2\project2\initializarepop.h(32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\mihaela\desktop\project2\project2\initializarepop.h(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihaela\desktop\project2\project2\initializarepop.h(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihaela\desktop\project2\project2\selectie.h(5): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihaela\desktop\project2\project2\selectie.h(6): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihaela\desktop\project2\project2\selectie.h(13): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihaela\desktop\project2\project2\selectie.h(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihaela\desktop\project2\project2\selectie.h(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihaela\desktop\project2\project2\selectie.h(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihaela\desktop\project2\project2\selectie.h(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihaela\desktop\project2\project2\incrutisare.h(4): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihaela\desktop\project2\project2\mutatie.h(5): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihaela\desktop\project2\project2\nouapopulatie.h(5): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihaela\desktop\project2\project2\nouapopulatie.h(10): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihaela\desktop\project2\project2\nouapopulatie.h(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihaela\desktop\project2\project2\source.cpp(3): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\mihaela\desktop\project2\project2\source.cpp(7): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihaela\desktop\project2\project2\source.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihaela\desktop\project2\project2\source.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihaela\desktop\project2\project2\source.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihaela\desktop\project2\project2\source.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihaela\desktop\project2\project2\source.cpp(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihaela\desktop\project2\project2\source.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihaela\desktop\project2\project2\source.cpp(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\mihaela\desktop\project2\project2\source.cpp(73): warning C4018: '<': signed/unsigned mismatch
+  Project2.vcxproj -> C:\Users\Mihaela\Desktop\Project2\Debug\Project2.exe
